@@ -1,1 +1,2 @@
 la tarea es mia
+Comentario en doc de Lorenzo de Git
